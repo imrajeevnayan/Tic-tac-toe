@@ -15,7 +15,6 @@ Welcome to **Tic Tac Toe Titans** — a stylish and modern web-based Tic Tac Toe
 - ✨ Winning animation effects
 
 ---
-
 ## 🛠️ Technologies Used
 
 - **HTML5**
